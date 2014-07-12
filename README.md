@@ -8,6 +8,7 @@
 * Jul 11, 2014 - [/sindresorhus/awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
 * Jul 11, 2014 - [/oyvindrobertsen/awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome) - A curated list of curated lists of libraries, resources and shiny things for various languages.
 * Jul 11, 2014 - [/yaph/lologl](https://github.com/yaph/lologl) - List of Lists of Github Lists
+* Jul 12, 2014 - [/bradoyler/awesome-all](https://github.com/bradoyler/awesome-all) - A curated list of awesome lists of awesome frameworks, libraries and software
 
 The list is in ascending order of the first commit date.
 
